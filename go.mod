@@ -17,8 +17,8 @@ require (
 	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b
 	golang.org/x/term v0.0.0-20220919170432-7a66f970e087
 	golang.org/x/time v0.0.0-20220922220347-f3bd1da661af
-	google.golang.org/genproto v0.0.0-20221013201013-33fc6f83cba4
-	google.golang.org/grpc v1.50.0
+	google.golang.org/genproto v0.0.0-20221014213838-99cd37c6964a
+	google.golang.org/grpc v1.50.1
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.24.0
