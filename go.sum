@@ -118,8 +118,6 @@ github.com/txthinking/x v0.0.0-20220929041811-1b4d914e9133/go.mod h1:WgqbSEmUYSj
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
 github.com/v2fly/v2ray-core/v5 v5.0.8 h1:DI9dq0xWD/34aq3IxMEF3VsZXg99Rh3dqj3AyF4FQF0=
 github.com/v2fly/v2ray-core/v5 v5.0.8/go.mod h1:2qao7xME2I10GRDEO0jJIJ2l0yfnc4j0B2A9RnsYstQ=
-github.com/xtaci/smux v1.5.16 h1:FBPYOkW8ZTjLKUM4LI4xnnuuDC8CQ/dB04HD519WoEk=
-github.com/xtaci/smux v1.5.16/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
 github.com/xtaci/smux v1.5.17 h1:1V9FZ8kNProe0JqFj6EjttdAqNBzqANhzsDrBjN/L0k=
 github.com/xtaci/smux v1.5.17/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
 github.com/xtls/go v0.0.0-20220914232946-0441cf4cf837 h1:AHhUwwFJGl27E46OpdJHplZkK09m7aETNBNzhT6t15M=
@@ -127,6 +125,8 @@ github.com/xtls/xray-core v1.6.5 h1:orN/xTYAtEz6UyF7OMKliYOBNAfYLuZDIKzcKgzRS2w=
 github.com/xtls/xray-core v1.6.5/go.mod h1:zim9x2y26FB2qD19HyvcLvwtOy8nw+Fa9g8bCEUwaNw=
 go.starlark.net v0.0.0-20221028183056-acb66ad56dd2 h1:5/KzhcSqd4UgY51l17r7C5g/JiE6DRw1Vq7VJfQHuMc=
 go.starlark.net v0.0.0-20221028183056-acb66ad56dd2/go.mod h1:kIVgS18CjmEC3PqMd5kaJSGEifyV/CeB9x506ZJ1Vbk=
+go.starlark.net v0.0.0-20221201204445-3d7c6cd99570 h1:ZcrJbIWeOLByCST6LsQxFZRcEL87JXkux9GaHI+Oxmk=
+go.starlark.net v0.0.0-20221201204445-3d7c6cd99570/go.mod h1:kIVgS18CjmEC3PqMd5kaJSGEifyV/CeB9x506ZJ1Vbk=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.3.0 h1:a06MkbcxBrEFc0w0QIZWXrH/9cCX6KJyWbBOIwAn+7A=
@@ -181,6 +181,8 @@ google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55/go.mod h1:DMBHOl98
 google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013/go.mod h1:NbSheEEYHJ7i3ixzK3sjbqSGDJWnxyFXZblF3eUsNvo=
 google.golang.org/genproto v0.0.0-20221130183247-a2ec334bae6f h1:G9JGt1JAvAkcv0+x6gGEWkgjEPxsI3fQhNq6L/DJTZ8=
 google.golang.org/genproto v0.0.0-20221130183247-a2ec334bae6f/go.mod h1:rZS5c/ZVYMaOGBfO68GWtjOw/eLaZM1X6iVtgjZ+EWg=
+google.golang.org/genproto v0.0.0-20221201204527-e3fa12d562f3 h1:BCcW+lhENGqZ2R2MsM9oty220E8vY9E4QC1Tq05hN1E=
+google.golang.org/genproto v0.0.0-20221201204527-e3fa12d562f3/go.mod h1:rZS5c/ZVYMaOGBfO68GWtjOw/eLaZM1X6iVtgjZ+EWg=
 google.golang.org/grpc v1.19.0/go.mod h1:mqu4LbDTu4XGKhr4mRzUsmM4RtVoemTSY81AxZiDr8c=
 google.golang.org/grpc v1.23.0/go.mod h1:Y5yQAOtifL1yxbo5wqy6BxZv8vAUGQwXBOALyacEbxg=
 google.golang.org/grpc v1.27.0/go.mod h1:qbnxyOmOxrQa7FizSgH+ReBfzJrCY1pSN7KXBS8abTk=
