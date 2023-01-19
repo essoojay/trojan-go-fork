@@ -135,6 +135,8 @@ github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 h1:SpG238mmC
 github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055/go.mod h1:CiDImH0b0JKWrAXdXqw9cBrz31oDVUBWdthDYs7dpkI=
 go.starlark.net v0.0.0-20230112144946-fae38c8a6d89 h1:qNFW0Bm9gXeA/h8lIzOiqvx7cMs/Xz5fkMgJpOo89qI=
 go.starlark.net v0.0.0-20230112144946-fae38c8a6d89/go.mod h1:kIVgS18CjmEC3PqMd5kaJSGEifyV/CeB9x506ZJ1Vbk=
+go.starlark.net v0.0.0-20230118143110-ddd531cdb2da h1:TckyegD9V0g1yvueWiMQ4BfEGeieq7yKq05oNVzXgJw=
+go.starlark.net v0.0.0-20230118143110-ddd531cdb2da/go.mod h1:1NtVfE+l6AHFaY4GmUPGHeLIW8/THkXnym5iweVgCwU=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.5.0 h1:U/0M97KRkSFvyD/3FSmdP5W5swImpNgle/EHFhOsQPE=
