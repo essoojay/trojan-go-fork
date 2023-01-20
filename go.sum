@@ -133,8 +133,6 @@ github.com/xtls/xray-core v1.7.2 h1:AMSnj8uZRz1l41DZ3YOcDvezPfj5qjvuG3puwD+nAgQ=
 github.com/xtls/xray-core v1.7.2/go.mod h1:7w8l7/L00gS8Zg38guikohw0bGkL4ge4VegeSiPjCmQ=
 github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 h1:SpG238mmCez9TdHDu0Qba+ol57R+/pUxvJsDXT22Fug=
 github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055/go.mod h1:CiDImH0b0JKWrAXdXqw9cBrz31oDVUBWdthDYs7dpkI=
-go.starlark.net v0.0.0-20230112144946-fae38c8a6d89 h1:qNFW0Bm9gXeA/h8lIzOiqvx7cMs/Xz5fkMgJpOo89qI=
-go.starlark.net v0.0.0-20230112144946-fae38c8a6d89/go.mod h1:kIVgS18CjmEC3PqMd5kaJSGEifyV/CeB9x506ZJ1Vbk=
 go.starlark.net v0.0.0-20230118143110-ddd531cdb2da h1:TckyegD9V0g1yvueWiMQ4BfEGeieq7yKq05oNVzXgJw=
 go.starlark.net v0.0.0-20230118143110-ddd531cdb2da/go.mod h1:1NtVfE+l6AHFaY4GmUPGHeLIW8/THkXnym5iweVgCwU=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
@@ -191,6 +189,8 @@ google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55/go.mod h1:DMBHOl98
 google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013/go.mod h1:NbSheEEYHJ7i3ixzK3sjbqSGDJWnxyFXZblF3eUsNvo=
 google.golang.org/genproto v0.0.0-20230117162540-28d6b9783ac4 h1:yF0uHwqqYt2tIL2F4hxRWA1ZFX43SEunWAK8MnQiclk=
 google.golang.org/genproto v0.0.0-20230117162540-28d6b9783ac4/go.mod h1:RGgjbofJ8xD9Sq1VVhDM1Vok1vRONV+rg+CjzG4SZKM=
+google.golang.org/genproto v0.0.0-20230119192704-9d59e20e5cd1 h1:wSjSSQW7LuPdv3m1IrSN33nVxH/kID6OIKy+FMwGB2k=
+google.golang.org/genproto v0.0.0-20230119192704-9d59e20e5cd1/go.mod h1:RGgjbofJ8xD9Sq1VVhDM1Vok1vRONV+rg+CjzG4SZKM=
 google.golang.org/grpc v1.19.0/go.mod h1:mqu4LbDTu4XGKhr4mRzUsmM4RtVoemTSY81AxZiDr8c=
 google.golang.org/grpc v1.23.0/go.mod h1:Y5yQAOtifL1yxbo5wqy6BxZv8vAUGQwXBOALyacEbxg=
 google.golang.org/grpc v1.27.0/go.mod h1:qbnxyOmOxrQa7FizSgH+ReBfzJrCY1pSN7KXBS8abTk=
