@@ -4,8 +4,6 @@ cloud.google.com/go/oslogin v1.7.0/go.mod h1:e04SN0xO1UNJ1M5GP0vzVBFicIe4O53FOfc
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230105122606-a4869f52795a h1:4S4Lsm6IL5R6lp2zp/6n2FLN523Qwp29iwNNAqkbhXg=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230105122606-a4869f52795a/go.mod h1:a0FlTxw4sdn6W+hF2rypntRJ4Y8aUeOo3kGP34x0cTc=
-github.com/Potterli20/sqlite v0.0.0-20230122121343-44a1447879fe h1:Hxm8YvYqWS2UkM9HjAq6vUmbgSU9+9lqO9zDwlwxeB8=
-github.com/Potterli20/sqlite v0.0.0-20230122121343-44a1447879fe/go.mod h1:LW08Gl43bMibUD/W5wTfbP8H8+gL5JuorvA4ZT1EEPM=
 github.com/Potterli20/sqlite v0.0.0-20230123004024-63c44210b485 h1:TMohlVxz7j1dcf5e748kHZQ/ucOUYcMsaqbZPN/KxJA=
 github.com/Potterli20/sqlite v0.0.0-20230123004024-63c44210b485/go.mod h1:LW08Gl43bMibUD/W5wTfbP8H8+gL5JuorvA4ZT1EEPM=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
