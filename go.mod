@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230105122606-a4869f52795a
-	github.com/Potterli20/sqlite v0.0.0-20230203004504-748b3551c19c
+	github.com/Potterli20/sqlite v0.0.0-20230203121505-bfd4fc625837
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/google/uuid v1.3.0
 	github.com/refraction-networking/utls v1.2.0
@@ -21,7 +21,7 @@ require (
 	google.golang.org/grpc v1.52.3
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/gorm v1.24.4
+	gorm.io/gorm v1.24.5
 )
 
 require (
