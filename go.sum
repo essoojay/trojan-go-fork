@@ -4,8 +4,6 @@ cloud.google.com/go/oslogin v1.7.0/go.mod h1:e04SN0xO1UNJ1M5GP0vzVBFicIe4O53FOfc
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230105122606-a4869f52795a h1:4S4Lsm6IL5R6lp2zp/6n2FLN523Qwp29iwNNAqkbhXg=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230105122606-a4869f52795a/go.mod h1:a0FlTxw4sdn6W+hF2rypntRJ4Y8aUeOo3kGP34x0cTc=
-github.com/Potterli20/sqlite v0.0.0-20230203121505-bfd4fc625837 h1:oBH2LU9qU40gAKQQoBZptcBjbJI9Vgt0dLxjw5OeOE4=
-github.com/Potterli20/sqlite v0.0.0-20230203121505-bfd4fc625837/go.mod h1:cKr2sqE6bdhQs4lZImjZ4Z8I2SRzQX0bivFOBVop+Ho=
 github.com/Potterli20/sqlite v0.0.0-20230204004025-4d45aa6f00b5 h1:o9HtUs8BylMAW0+Z7ZTrP1tB8UOTrbKH9pPCsEmHDEE=
 github.com/Potterli20/sqlite v0.0.0-20230204004025-4d45aa6f00b5/go.mod h1:cKr2sqE6bdhQs4lZImjZ4Z8I2SRzQX0bivFOBVop+Ho=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -117,6 +115,8 @@ github.com/txthinking/runnergroup v0.0.0-20220212043759-8da8edb7dae8 h1:iYc+JnXt
 github.com/txthinking/runnergroup v0.0.0-20220212043759-8da8edb7dae8/go.mod h1:CLUSJbazqETbaR+i0YAhXBICV9TrKH93pziccMhmhpM=
 github.com/txthinking/socks5 v0.0.0-20220615051428-39268faee3e6 h1:8DkPbOq/EPxbD5VJajKuvssiYZJSrlpeetcGfrBoBVE=
 github.com/txthinking/socks5 v0.0.0-20220615051428-39268faee3e6/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
+github.com/txthinking/socks5 v0.0.0-20230204071052-424978e4d479 h1:uLw7+Yi3Oh+KdZiq13NNkJCfQR+j3NJPNx7SiE8uWJA=
+github.com/txthinking/socks5 v0.0.0-20230204071052-424978e4d479/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
 github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe/go.mod h1:WgqbSEmUYSjEV3B1qmee/PpP2NYEz4bL9/+mF1ma+s4=
 github.com/txthinking/x v0.0.0-20220929041811-1b4d914e9133 h1:fUw8+3ruX0uv2gAko4D0v6IpLmSI2soOkGl6YYmiBrM=
 github.com/txthinking/x v0.0.0-20220929041811-1b4d914e9133/go.mod h1:WgqbSEmUYSjEV3B1qmee/PpP2NYEz4bL9/+mF1ma+s4=
