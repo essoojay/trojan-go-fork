@@ -89,6 +89,8 @@ github.com/quic-go/qtls-go1-20 v0.1.0 h1:d1PK3ErFy9t7zxKsG3NXBJXZjp/kMLoIb3y/kV5
 github.com/quic-go/quic-go v0.32.0 h1:lY02md31s1JgPiiyfqJijpu/UX/Iun304FI3yUqX7tA=
 github.com/refraction-networking/utls v1.2.0 h1:U5f8wkij2NVinfLuJdFP3gCMwIHs+EzvhxmYdXgiapo=
 github.com/refraction-networking/utls v1.2.0/go.mod h1:NPq+cVqzH7D1BeOkmOcb5O/8iVewAsiVt2x1/eO0hgQ=
+github.com/refraction-networking/utls v1.2.1 h1:BvjkQ5ar/45MuDZzqJlOU4a6JuwVH3AXcR8WqtRZ340=
+github.com/refraction-networking/utls v1.2.1/go.mod h1:L1goe44KvhnTfctUffM2isnJpSjPlYShrhXDeZaoYKw=
 github.com/remyoudompheng/bigfft v0.0.0-20200410134404-eec4a21b6bb0/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec h1:W09IVJc94icq4NjY3clb7Lk8O1qJ8BdBEF8z0ibU0rE=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec/go.mod h1:qqbHyh8v60DhA7CoWK5oRCqLrMHRGoxYCSS9EjAz6Eo=
