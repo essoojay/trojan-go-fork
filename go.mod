@@ -10,7 +10,7 @@ require (
 	github.com/refraction-networking/utls v1.2.2
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.1
-	github.com/txthinking/socks5 v0.0.0-20230210121701-a214c4a48690
+	github.com/txthinking/socks5 v0.0.0-20230211023511-e0c1ba4546a8
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.19
 	github.com/xtls/xray-core v1.7.5
@@ -44,8 +44,7 @@ require (
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/smartystreets/assertions v1.2.0 // indirect
-	github.com/txthinking/runnergroup v0.0.0-20220212043759-8da8edb7dae8 // indirect
-	github.com/txthinking/x v0.0.0-20220929041811-1b4d914e9133 // indirect
+	github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86 // indirect
 	github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 // indirect
 	go.starlark.net v0.0.0-20230128213706-3f75dec8e403 // indirect
 	golang.org/x/crypto v0.6.0 // indirect
