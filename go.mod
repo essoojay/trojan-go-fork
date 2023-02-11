@@ -4,13 +4,13 @@ go 1.19
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230209031317-499ba5b764d2
-	github.com/Potterli20/sqlite v0.0.0-20230207163150-f675521c527a
+	github.com/Potterli20/sqlite v0.0.0-20230211001755-1dd61bc71873
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/google/uuid v1.3.0
-	github.com/refraction-networking/utls v1.2.2-0.20230207151345-a75a4b484849
+	github.com/refraction-networking/utls v1.2.2
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.1
-	github.com/txthinking/socks5 v0.0.0-20230204071052-424978e4d479
+	github.com/txthinking/socks5 v0.0.0-20230210121701-a214c4a48690
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.19
 	github.com/xtls/xray-core v1.7.5
@@ -52,7 +52,7 @@ require (
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
 	golang.org/x/text v0.7.0 // indirect
-	golang.org/x/tools v0.5.0 // indirect
+	golang.org/x/tools v0.6.0 // indirect
 	lukechampine.com/uint128 v1.2.0 // indirect
 	modernc.org/cc/v3 v3.40.0 // indirect
 	modernc.org/ccgo/v3 v3.16.13 // indirect
