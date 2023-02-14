@@ -121,6 +121,8 @@ github.com/v2fly/v2ray-core/v5 v5.0.8 h1:DI9dq0xWD/34aq3IxMEF3VsZXg99Rh3dqj3AyF4
 github.com/v2fly/v2ray-core/v5 v5.0.8/go.mod h1:2qao7xME2I10GRDEO0jJIJ2l0yfnc4j0B2A9RnsYstQ=
 github.com/xtaci/smux v1.5.20 h1:7pw7PLSW1MfiiRVBB27T5cFLGws1GAJP9ZDP+V+40dw=
 github.com/xtaci/smux v1.5.20/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
+github.com/xtaci/smux v1.5.21 h1:GU5Bpy7pYVwJHYZ0DWErHfDtLUf2XQBlC/MmBKdpH0M=
+github.com/xtaci/smux v1.5.21/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
 github.com/xtls/go v0.0.0-20230107031059-4610f88d00f3 h1:a3Y4WVjCxwoyO4E2xdNvq577tW8lkSBgyrA8E9+2NtM=
 github.com/xtls/xray-core v1.7.5 h1:Ukr3hXnOG2ciViQL7kfYRl9S3GVej2dkV7DzabmoLL4=
 github.com/xtls/xray-core v1.7.5/go.mod h1:Mx1QzIDvSk4eZ8hKa3AYsSPfyZJNQXWVXTJxJRJ98wI=
