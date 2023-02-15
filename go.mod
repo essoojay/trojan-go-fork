@@ -12,9 +12,9 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/txthinking/socks5 v0.0.0-20230211023511-e0c1ba4546a8
 	github.com/v2fly/v2ray-core/v5 v5.0.8
-	github.com/xtaci/smux v1.5.21
+	github.com/xtaci/smux v1.5.24
 	github.com/xtls/xray-core v1.7.5
-	golang.org/x/net v0.6.0
+	golang.org/x/net v0.7.0
 	golang.org/x/term v0.5.0
 	golang.org/x/time v0.3.0
 	google.golang.org/genproto v0.0.0-20230209215440-0dfe4f8abfcc
