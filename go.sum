@@ -113,8 +113,6 @@ github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/txthinking/runnergroup v0.0.0-20210608031112-152c7c4432bf/go.mod h1:CLUSJbazqETbaR+i0YAhXBICV9TrKH93pziccMhmhpM=
 github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86 h1:nIvfVa+OBTatLNAIHI83i3qUKbkuBfUcvbyBUKmH8HE=
 github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86/go.mod h1:cldYm15/XHcGt7ndItnEWHwFZo7dinU+2QoyjfErhsI=
-github.com/txthinking/socks5 v0.0.0-20230211023511-e0c1ba4546a8 h1:qYhw9YMm1Fq+1UAD4/mjVJq3OkHFe4gzWGJkP/yqeVo=
-github.com/txthinking/socks5 v0.0.0-20230211023511-e0c1ba4546a8/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
 github.com/txthinking/socks5 v0.0.0-20230215122820-1d06f3a253de h1:Uar4PWybdMCn4DoppuEl8Fd9qMuXqZFMNmvpDy8vhY4=
 github.com/txthinking/socks5 v0.0.0-20230215122820-1d06f3a253de/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
 github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe/go.mod h1:WgqbSEmUYSjEV3B1qmee/PpP2NYEz4bL9/+mF1ma+s4=
