@@ -115,6 +115,8 @@ github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86 h1:nIvfVa+O
 github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86/go.mod h1:cldYm15/XHcGt7ndItnEWHwFZo7dinU+2QoyjfErhsI=
 github.com/txthinking/socks5 v0.0.0-20230211023511-e0c1ba4546a8 h1:qYhw9YMm1Fq+1UAD4/mjVJq3OkHFe4gzWGJkP/yqeVo=
 github.com/txthinking/socks5 v0.0.0-20230211023511-e0c1ba4546a8/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
+github.com/txthinking/socks5 v0.0.0-20230215122820-1d06f3a253de h1:Uar4PWybdMCn4DoppuEl8Fd9qMuXqZFMNmvpDy8vhY4=
+github.com/txthinking/socks5 v0.0.0-20230215122820-1d06f3a253de/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
 github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe/go.mod h1:WgqbSEmUYSjEV3B1qmee/PpP2NYEz4bL9/+mF1ma+s4=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
 github.com/v2fly/v2ray-core/v5 v5.0.8 h1:DI9dq0xWD/34aq3IxMEF3VsZXg99Rh3dqj3AyF4FQF0=
