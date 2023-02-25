@@ -4,8 +4,6 @@ cloud.google.com/go/oslogin v1.7.0/go.mod h1:e04SN0xO1UNJ1M5GP0vzVBFicIe4O53FOfc
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230209031317-499ba5b764d2 h1:AbDW2QstERLh3hkSWgUK9NayOuEt8RDe9g/lGeFArbI=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230209031317-499ba5b764d2/go.mod h1:723dLCZDaiNeJji4DJAHxjWRzlsStEmXzUfdraCBNIU=
-github.com/Potterli20/sqlite v0.0.0-20230211001755-1dd61bc71873 h1:MAh23y+rm5Q1Fa1FKUZSXrLT0uirNKhyOuAyDSyr7wM=
-github.com/Potterli20/sqlite v0.0.0-20230211001755-1dd61bc71873/go.mod h1:TiRFKaIB4riIbQdQiakKIUkhmG4GyHklJlMeUscJXQY=
 github.com/Potterli20/sqlite v0.0.0-20230225011531-af8539d93fbd h1:3Rxsoa04tSHKtKm26rDvKY5xVUrFCEssEwk+gnokN1M=
 github.com/Potterli20/sqlite v0.0.0-20230225011531-af8539d93fbd/go.mod h1:xCH4bag3U1ItSoz7TEAIP6rkyeY1YkbBsUBdQS7y2GQ=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -128,8 +126,6 @@ github.com/xtls/xray-core v1.7.5 h1:Ukr3hXnOG2ciViQL7kfYRl9S3GVej2dkV7DzabmoLL4=
 github.com/xtls/xray-core v1.7.5/go.mod h1:Mx1QzIDvSk4eZ8hKa3AYsSPfyZJNQXWVXTJxJRJ98wI=
 github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 h1:SpG238mmCez9TdHDu0Qba+ol57R+/pUxvJsDXT22Fug=
 github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055/go.mod h1:CiDImH0b0JKWrAXdXqw9cBrz31oDVUBWdthDYs7dpkI=
-go.starlark.net v0.0.0-20230128213706-3f75dec8e403 h1:jPeC7Exc+m8OBJUlWbBLh0O5UZPM7yU5W4adnhhbG4U=
-go.starlark.net v0.0.0-20230128213706-3f75dec8e403/go.mod h1:jxU+3+j+71eXOW14274+SmmuW82qJzl6iZSeqEtTGds=
 go.starlark.net v0.0.0-20230224151120-c52844e64a10 h1:lVljOiU1EFbXp5KnE9TBYNoV4zHQxkr4g9QbR9U6e04=
 go.starlark.net v0.0.0-20230224151120-c52844e64a10/go.mod h1:jxU+3+j+71eXOW14274+SmmuW82qJzl6iZSeqEtTGds=
 go.uber.org/atomic v1.10.0 h1:9qC72Qh0+3MqyJbAn8YU5xVq1frD8bn3JtD2oXtafVQ=
