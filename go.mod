@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230209031317-499ba5b764d2
-	github.com/Potterli20/sqlite v0.0.0-20230225011531-af8539d93fbd
+	github.com/Potterli20/sqlite v0.0.0-20230302121547-ca109574cbcd
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/google/uuid v1.3.0
 	github.com/refraction-networking/utls v1.2.2
@@ -21,7 +21,7 @@ require (
 	google.golang.org/grpc v1.53.0
 	google.golang.org/protobuf v1.28.1
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/gorm v1.24.5
+	gorm.io/gorm v1.24.6
 )
 
 require (
@@ -46,7 +46,7 @@ require (
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86 // indirect
 	github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 // indirect
-	go.starlark.net v0.0.0-20230228032650-dded03209ead // indirect
+	go.starlark.net v0.0.0-20230302034142-4b1e35fe2254 // indirect
 	golang.org/x/crypto v0.6.0 // indirect
 	golang.org/x/mod v0.8.0 // indirect
 	golang.org/x/sys v0.5.0 // indirect
