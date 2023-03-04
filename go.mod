@@ -10,7 +10,7 @@ require (
 	github.com/refraction-networking/utls v1.2.2
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.1
-	github.com/txthinking/socks5 v0.0.0-20230218064523-bfcd05be2cf1
+	github.com/txthinking/socks5 v0.0.0-20230304014913-225d9357dddc
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
 	github.com/xtls/xray-core v1.7.5

@@ -114,6 +114,8 @@ github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86 h1:nIvfVa+O
 github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86/go.mod h1:cldYm15/XHcGt7ndItnEWHwFZo7dinU+2QoyjfErhsI=
 github.com/txthinking/socks5 v0.0.0-20230218064523-bfcd05be2cf1 h1:Y9Bw4Qq+k/z3Q4jjfgXpgNxRLtQFqAYDnVSCTvmpfvQ=
 github.com/txthinking/socks5 v0.0.0-20230218064523-bfcd05be2cf1/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
+github.com/txthinking/socks5 v0.0.0-20230304014913-225d9357dddc h1:HbtMoKTPCuj6IVBGr51PdmC6IvSX8OMXmSwOvZMiKZ0=
+github.com/txthinking/socks5 v0.0.0-20230304014913-225d9357dddc/go.mod h1:7NloQcrxaZYKURWph5HLxVDlIwMHJXCPkeWPtpftsIg=
 github.com/txthinking/x v0.0.0-20210326105829-476fab902fbe/go.mod h1:WgqbSEmUYSjEV3B1qmee/PpP2NYEz4bL9/+mF1ma+s4=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
 github.com/v2fly/v2ray-core/v5 v5.0.8 h1:DI9dq0xWD/34aq3IxMEF3VsZXg99Rh3dqj3AyF4FQF0=
@@ -179,8 +181,6 @@ google.golang.org/appengine v1.4.0/go.mod h1:xpcJRLb0r/rnEns0DIKYYv+WjYCduHsrkT7
 google.golang.org/genproto v0.0.0-20180817151627-c66870c02cf8/go.mod h1:JiN7NxoALGmiZfu7CAH4rXhgtRTLTxftemlI0sWmxmc=
 google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55/go.mod h1:DMBHOl98Agz4BDEuKkezgsaosCRResVns1a3J2ZsMNc=
 google.golang.org/genproto v0.0.0-20200526211855-cb27e3aa2013/go.mod h1:NbSheEEYHJ7i3ixzK3sjbqSGDJWnxyFXZblF3eUsNvo=
-google.golang.org/genproto v0.0.0-20230301171018-9ab4bdc49ad5 h1:/cadn7taPtPlCgiWNetEPsle7jgnlad2R7gR5MXB6dM=
-google.golang.org/genproto v0.0.0-20230301171018-9ab4bdc49ad5/go.mod h1:TvhZT5f700eVlTNwND1xoEZQeWTB2RY/65kplwl/bFA=
 google.golang.org/genproto v0.0.0-20230303212802-e74f57abe488 h1:QQF+HdiI4iocoxUjjpLgvTYDHKm99C/VtTBFnfiCJos=
 google.golang.org/genproto v0.0.0-20230303212802-e74f57abe488/go.mod h1:TvhZT5f700eVlTNwND1xoEZQeWTB2RY/65kplwl/bFA=
 google.golang.org/grpc v1.19.0/go.mod h1:mqu4LbDTu4XGKhr4mRzUsmM4RtVoemTSY81AxZiDr8c=
