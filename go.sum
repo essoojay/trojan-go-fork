@@ -113,8 +113,12 @@ github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/txthinking/runnergroup v0.0.0-20210608031112-152c7c4432bf/go.mod h1:CLUSJbazqETbaR+i0YAhXBICV9TrKH93pziccMhmhpM=
 github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86 h1:nIvfVa+OBTatLNAIHI83i3qUKbkuBfUcvbyBUKmH8HE=
 github.com/txthinking/runnergroup v0.0.0-20230211072751-d11f16258c86/go.mod h1:cldYm15/XHcGt7ndItnEWHwFZo7dinU+2QoyjfErhsI=
+github.com/txthinking/runnergroup v0.0.0-20230325130830-408dc5853f86 h1:EX/lPhI7pMS0AOXCkKgdo/CCHOtTtTBvdjk7uUWeSYc=
+github.com/txthinking/runnergroup v0.0.0-20230325130830-408dc5853f86/go.mod h1:cldYm15/XHcGt7ndItnEWHwFZo7dinU+2QoyjfErhsI=
 github.com/txthinking/socks5 v0.0.0-20230307062227-0e1677eca4ba h1:GuqS2RlP95RNpPHND4roBqrCEC0b3ABHs2ZhJsYeC8w=
 github.com/txthinking/socks5 v0.0.0-20230307062227-0e1677eca4ba/go.mod h1:ntmMHL/xPq1WLeKiw8p/eRATaae6PiVRNipHFJxI8PM=
+github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301 h1:d/Wr/Vl/wiJHc3AHYbYs5I3PucJvRuw3SvbmlIRf+oM=
+github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301/go.mod h1:ntmMHL/xPq1WLeKiw8p/eRATaae6PiVRNipHFJxI8PM=
 github.com/v2fly/ss-bloomring v0.0.0-20210312155135-28617310f63e h1:5QefA066A1tF8gHIiADmOVOV5LS43gt3ONnlEl3xkwI=
 github.com/v2fly/v2ray-core/v5 v5.0.8 h1:DI9dq0xWD/34aq3IxMEF3VsZXg99Rh3dqj3AyF4FQF0=
 github.com/v2fly/v2ray-core/v5 v5.0.8/go.mod h1:2qao7xME2I10GRDEO0jJIJ2l0yfnc4j0B2A9RnsYstQ=
