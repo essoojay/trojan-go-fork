@@ -4,8 +4,6 @@ cloud.google.com/go/oslogin v1.9.0/go.mod h1:HNavntnH8nzrn8JCTT5fj18FuJLFJc4NaZJ
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230404210720-c1a19250b71d h1:dYyB9+5TgqztBOAdUOrZnP70o3l3UxTuIprU372wUus=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230404210720-c1a19250b71d/go.mod h1:HGeZrUMCTU/HgCK0Y4Va6fZSpALElqBqnt1fG1CXanY=
-github.com/Potterli20/sqlite v0.0.0-20230405003449-2fabde24ef3a h1:9S6PiD95LNUaTpwxf6thCuck9Onb8cR91nZFqRobMG4=
-github.com/Potterli20/sqlite v0.0.0-20230405003449-2fabde24ef3a/go.mod h1:JCdvOz7/rfeuP5z7QfPGEdxIdp+GEisS5Yh7jzTGQ2M=
 github.com/Potterli20/sqlite v0.0.0-20230405121722-3b4fec59f18c h1:eVL9doEdhXzhBFc80J1xAt4fus9hmD6xEEkky97VUyw=
 github.com/Potterli20/sqlite v0.0.0-20230405121722-3b4fec59f18c/go.mod h1:JCdvOz7/rfeuP5z7QfPGEdxIdp+GEisS5Yh7jzTGQ2M=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -67,8 +65,6 @@ github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
 github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 h1:Z9n2FFNUXsshfwJMBgNA0RU6/i7WVaAegv3PtuIHPMs=
 github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51/go.mod h1:CzGEWj7cYgsdH8dAjBGEr58BoE7ScuLd+fwFZ44+/x8=
-github.com/klauspost/compress v1.16.3 h1:XuJt9zzcnaz6a16/OU53ZjWp/v7/42WcR5t2a0PcNQY=
-github.com/klauspost/compress v1.16.3/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
 github.com/klauspost/compress v1.16.4 h1:91KN02FnsOYhuunwU4ssRe8lc2JosWmizWa91B5v1PU=
 github.com/klauspost/compress v1.16.4/go.mod h1:ntbaceVETuRiXiv4DpjP66DpAtAGkEQskQzEyD//IeE=
 github.com/klauspost/cpuid v1.2.3 h1:CCtW0xUnWGVINKvE/WWOYKdsPV6mawAtvQuSl8guwQs=
