@@ -3,8 +3,8 @@ module github.com/Potterli20/trojan-go-fork
 go 1.19
 
 require (
-	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230404210720-c1a19250b71d
-	github.com/Potterli20/sqlite v0.0.0-20230405121722-3b4fec59f18c
+	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230407150810-ffc09cdcc989
+	github.com/Potterli20/sqlite v0.0.0-20230408003707-5325a08effe2
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/google/uuid v1.3.0
 	github.com/refraction-networking/utls v1.3.2
