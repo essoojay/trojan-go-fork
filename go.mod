@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230407150810-ffc09cdcc989
-	github.com/Potterli20/sqlite v0.0.0-20230412003900-1a712a32d027
+	github.com/Potterli20/sqlite v0.0.0-20230418003806-0e2c0d99098c
 	github.com/go-sql-driver/mysql v1.7.0
 	github.com/google/uuid v1.3.0
 	github.com/refraction-networking/utls v1.3.2
@@ -13,7 +13,7 @@ require (
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
-	github.com/xtls/xray-core v1.8.0
+	github.com/xtls/xray-core v1.8.1
 	golang.org/x/net v0.9.0
 	golang.org/x/term v0.7.0
 	golang.org/x/time v0.3.0
