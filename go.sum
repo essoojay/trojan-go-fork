@@ -4,8 +4,6 @@ cloud.google.com/go/oslogin v1.9.0/go.mod h1:HNavntnH8nzrn8JCTT5fj18FuJLFJc4NaZJ
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230407150810-ffc09cdcc989 h1:+QgiC1ZvFtGW4360swEo/6pyIjpqNplvSdSuFPQ3KEE=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230407150810-ffc09cdcc989/go.mod h1:JhuLxQx2txFM5BHUTt+onq65wPp+9D2xR84oTOdQkH4=
-github.com/Potterli20/sqlite v0.0.0-20230418121442-af03fbd90458 h1:bwGFo5lFAa/ysM8x0sZCrhbZOZgUGsqxdfOtJDVHPrQ=
-github.com/Potterli20/sqlite v0.0.0-20230418121442-af03fbd90458/go.mod h1:w/XjxT79Aw07niQ34VAEuGayrJo4Pj/KYDNOyzLHtJ8=
 github.com/Potterli20/sqlite v0.0.0-20230420003151-fd3b73cc0e62 h1:7KcPBIYwAJNwDgTPzapNhHHGelhMHop7+Q37QXCXqkE=
 github.com/Potterli20/sqlite v0.0.0-20230420003151-fd3b73cc0e62/go.mod h1:y9Xzxs/7GLjy2JUtmTqEDWVjCar4h78W6KuVHqXpn+o=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -255,8 +253,6 @@ modernc.org/memory v1.5.0 h1:N+/8c5rE6EqugZwHii4IFsaJ7MUhoWX07J5tC/iI5Ds=
 modernc.org/memory v1.5.0/go.mod h1:PkUhL0Mugw21sHPeskwZW4D6VscE/GQJOnIpCnW6pSU=
 modernc.org/opt v0.1.3 h1:3XOZf2yznlhC+ibLltsDGzABUGVx8J6pnFMS3E4dcq4=
 modernc.org/opt v0.1.3/go.mod h1:WdSiB5evDcignE70guQKxYUl14mgWtbClRi5wmkkTX0=
-modernc.org/sqlite v1.21.1 h1:GyDFqNnESLOhwwDRaHGdp2jKLDzpyT/rNLglX3ZkMSU=
-modernc.org/sqlite v1.21.1/go.mod h1:XwQ0wZPIh1iKb5mkvCJ3szzbhk+tykC8ZWqTRTgYRwI=
 modernc.org/sqlite v1.21.2 h1:ixuUG0QS413Vfzyx6FWx6PYTmHaOegTY+hjzhn7L+a0=
 modernc.org/sqlite v1.21.2/go.mod h1:cxbLkB5WS32DnQqeH4h4o1B0eMr8W/y8/RGuxQ3JsC0=
 modernc.org/strutil v1.1.3 h1:fNMm+oJklMGYfU9Ylcywl0CO5O6nTfaowNsh2wpPjzY=
