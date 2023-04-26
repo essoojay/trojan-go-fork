@@ -6,6 +6,8 @@ github.com/Potterli20/go-shadowsocks2 v0.0.0-20230407150810-ffc09cdcc989 h1:+Qgi
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230407150810-ffc09cdcc989/go.mod h1:JhuLxQx2txFM5BHUTt+onq65wPp+9D2xR84oTOdQkH4=
 github.com/Potterli20/sqlite v0.0.0-20230425004104-37de72b7b3d8 h1:6Q39QkQDIcvgTCCV/LfoN//fcb6xxM1QTXdTazYFzdM=
 github.com/Potterli20/sqlite v0.0.0-20230425004104-37de72b7b3d8/go.mod h1:thZqTBY9tP/zsH2bkDJq1eow4ZmcOLZZ4mMhqB6Ig3c=
+github.com/Potterli20/sqlite v0.0.0-20230425121423-5d3e1acd170f h1:N73B2lGjrWZanL1GV51KYDfxbnXm0ANNc983zBUlh2Q=
+github.com/Potterli20/sqlite v0.0.0-20230425121423-5d3e1acd170f/go.mod h1:thZqTBY9tP/zsH2bkDJq1eow4ZmcOLZZ4mMhqB6Ig3c=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
 github.com/adrg/xdg v0.4.0/go.mod h1:N6ag73EX4wyxeaoeHctc1mas01KZgsj5tYiAIwqJE/E=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
@@ -27,8 +29,6 @@ github.com/francoispqt/gojay v1.2.13 h1:d2m3sFjloqoIUQU3TsHBgj6qg/BVGlTBeHDUmyJn
 github.com/gaukas/godicttls v0.0.3 h1:YNDIf0d9adcxOijiLrEzpfZGAkNwLRzPaG6OjU7EITk=
 github.com/gaukas/godicttls v0.0.3/go.mod h1:l6EenT4TLWgTdwslVb4sEMOCf7Bv0JAK67deKr9/NCI=
 github.com/ghodss/yaml v1.0.1-0.20220118164431-d8423dcdf344 h1:Arcl6UOIS/kgO2nW3A65HN+7CMjSDP/gofXL4CZt1V4=
-github.com/go-sql-driver/mysql v1.7.0 h1:ueSltNNllEqE3qcWBTD0iQd3IpL/6U+mJxLkazJ7YPc=
-github.com/go-sql-driver/mysql v1.7.0/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/go-sql-driver/mysql v1.7.1 h1:lUIinVbN1DY0xBg0eMOzmmtGoHwWBbvnWubQUrtU8EI=
 github.com/go-sql-driver/mysql v1.7.1/go.mod h1:OXbVy3sEdcQ2Doequ6Z5BW6fXNQTmx+9S1MCJN5yJMI=
 github.com/go-task/slim-sprig v0.0.0-20230315185526-52ccab3ef572 h1:tfuBGBXKqDEevZMzYi5KSi8KkcZtzBcTgAUUtapy0OI=
