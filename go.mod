@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230613150822-69ad7f1ebcb8
-	github.com/Potterli20/sqlite v0.0.0-20230615004440-16c09ff87627
+	github.com/Potterli20/sqlite v0.0.0-20230616004612-db8128586d06
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.0
 	github.com/refraction-networking/utls v1.3.2
@@ -18,7 +18,7 @@ require (
 	golang.org/x/term v0.9.0
 	golang.org/x/time v0.3.0
 	google.golang.org/genproto v0.0.0-20230525234025-438c736192d0
-	google.golang.org/grpc v1.55.0
+	google.golang.org/grpc v1.56.0
 	google.golang.org/protobuf v1.30.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.1
@@ -52,7 +52,7 @@ require (
 	golang.org/x/mod v0.11.0 // indirect
 	golang.org/x/sys v0.9.0 // indirect
 	golang.org/x/text v0.10.0 // indirect
-	golang.org/x/tools v0.9.3 // indirect
+	golang.org/x/tools v0.10.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230525234020-1aefcd67740a // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20230530153820-e85fd2cbaebc // indirect
 	lukechampine.com/uint128 v1.3.0 // indirect
