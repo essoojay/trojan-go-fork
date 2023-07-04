@@ -37,7 +37,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/klauspost/compress v1.16.6 // indirect
+	github.com/klauspost/compress v1.16.7 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pires/go-proxyproto v0.7.0 // indirect
