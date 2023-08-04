@@ -7,7 +7,7 @@ require (
 	github.com/Potterli20/sqlite v0.0.0-20230804004238-7c19f040848a
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.0
-	github.com/refraction-networking/utls v1.3.3
+	github.com/refraction-networking/utls v1.4.0
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.4
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
@@ -42,6 +42,7 @@ require (
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pires/go-proxyproto v0.7.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
+	github.com/quic-go/quic-go v0.37.2 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
 	github.com/sagernet/sing v0.2.9 // indirect
