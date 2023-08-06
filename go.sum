@@ -2,8 +2,6 @@ cloud.google.com/go/oslogin v1.10.1 h1:LdSuG3xBYu2Sgr3jTUULL1XCl5QBx6xwzGqzoDUw1
 cloud.google.com/go/oslogin v1.10.1/go.mod h1:x692z7yAue5nE7CsSnoG0aaMbNoRJRXO4sn73R+ZqAs=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230805004347-b299f23bc05e h1:2+1plprYYRNJ3VWASGnyGZFmeivxRdfehsqITiYFhOo=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230805004347-b299f23bc05e/go.mod h1:9xXYuEN/fy3GFTSv7bvMnT0jniMGwKWMCyc55LoqMUw=
-github.com/Potterli20/sqlite v0.0.0-20230805004047-dc9b4acd10a0 h1:tORDGqp/88QXHmixrhq6wrfupUypfhstABFog7lgKKA=
-github.com/Potterli20/sqlite v0.0.0-20230805004047-dc9b4acd10a0/go.mod h1:kmvlpudv4l+M1SyBpt4r47bv73tSX0VJ2ADDagvQkqs=
 github.com/Potterli20/sqlite v0.0.0-20230805121255-40f2e101b899 h1:5G9bMZmkGVWYKuSLFTQ2qSjv1qRiVWUvINOgLCqAyNY=
 github.com/Potterli20/sqlite v0.0.0-20230805121255-40f2e101b899/go.mod h1:kmvlpudv4l+M1SyBpt4r47bv73tSX0VJ2ADDagvQkqs=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -73,6 +71,8 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/quic-go/qtls-go1-20 v0.3.1 h1:O4BLOM3hwfVF3AcktIylQXyl7Yi2iBNVy5QsV+ySxbg=
 github.com/quic-go/quic-go v0.37.2 h1:lFTYNpXNc5nfkCMfQ9nFCSa+IZAB9OgxFHbWzwxjU+o=
 github.com/quic-go/quic-go v0.37.2/go.mod h1:YsbH1r4mSHPJcLF4k4zruUkLBqctEMBDR6VPvcYjIsU=
+github.com/quic-go/quic-go v0.37.3 h1:pkHH3xaMNUNAh6OtgEV/0K6Fz+YIJXhPzgd/ShiRDm4=
+github.com/quic-go/quic-go v0.37.3/go.mod h1:YsbH1r4mSHPJcLF4k4zruUkLBqctEMBDR6VPvcYjIsU=
 github.com/refraction-networking/utls v1.4.0 h1:eRlOMplB02JBNniqRVvI6gglfjiKkeOuB3xKevey7PM=
 github.com/refraction-networking/utls v1.4.0/go.mod h1:JkUIj+Pc8eyFB0z+A4RJRZmoT43ajjFZWVMXuZQ8BEQ=
 github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec h1:W09IVJc94icq4NjY3clb7Lk8O1qJ8BdBEF8z0ibU0rE=
