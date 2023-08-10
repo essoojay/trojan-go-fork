@@ -4,6 +4,8 @@ github.com/Potterli20/go-shadowsocks2 v0.0.0-20230805004347-b299f23bc05e h1:2+1p
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230805004347-b299f23bc05e/go.mod h1:9xXYuEN/fy3GFTSv7bvMnT0jniMGwKWMCyc55LoqMUw=
 github.com/Potterli20/sqlite v0.0.0-20230808121427-628cd76eb842 h1:KDWd5hmmm2SamXyOdUPmxRH4Mx9g7GpC3xWFMgBOAD0=
 github.com/Potterli20/sqlite v0.0.0-20230808121427-628cd76eb842/go.mod h1:2ltE/YAFa7I8kXFyi15d32B5gmBaFpW7GEeOyXDGYJo=
+github.com/Potterli20/sqlite v0.0.0-20230810121519-1c6ffb72472a h1:y0TdgXglIudqzkTx+2wbxhZh7aNESQJltSBjju/a+Is=
+github.com/Potterli20/sqlite v0.0.0-20230810121519-1c6ffb72472a/go.mod h1:Uen9QMLLxWmh5lcpOrVqMhuaTnxNnVqJV10J8FvPJQQ=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
 github.com/adrg/xdg v0.4.0/go.mod h1:N6ag73EX4wyxeaoeHctc1mas01KZgsj5tYiAIwqJE/E=
 github.com/andybalholm/brotli v1.0.5 h1:8uQZIdzKmjc/iuPu7O2ioW48L81FgatrcpfFmiq/cCs=
@@ -69,8 +71,6 @@ github.com/pkg/diff v0.0.0-20210226163009-20ebb0f2a09e/go.mod h1:pJLUxLENpZxwdsK
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/quic-go/qtls-go1-20 v0.3.1 h1:O4BLOM3hwfVF3AcktIylQXyl7Yi2iBNVy5QsV+ySxbg=
-github.com/quic-go/quic-go v0.37.3 h1:pkHH3xaMNUNAh6OtgEV/0K6Fz+YIJXhPzgd/ShiRDm4=
-github.com/quic-go/quic-go v0.37.3/go.mod h1:YsbH1r4mSHPJcLF4k4zruUkLBqctEMBDR6VPvcYjIsU=
 github.com/quic-go/quic-go v0.37.4 h1:ke8B73yMCWGq9MfrCCAw0Uzdm7GaViC3i39dsIdDlH4=
 github.com/quic-go/quic-go v0.37.4/go.mod h1:YsbH1r4mSHPJcLF4k4zruUkLBqctEMBDR6VPvcYjIsU=
 github.com/refraction-networking/utls v1.4.1 h1:5VXwhNzrnWrvbJW8IVpptJKrErZGqoRbn7wqu2jqMrU=
@@ -184,6 +184,8 @@ gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
 gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
 gorm.io/gorm v1.25.2 h1:gs1o6Vsa+oVKG/a9ElL3XgyGfghFfkKA2SInQaCyMho=
 gorm.io/gorm v1.25.2/go.mod h1:L4uxeKpfBml98NYqVqwAdmV1a2nBtAec/cf3fpucW/k=
+gorm.io/gorm v1.25.3 h1:zi4rHZj1anhZS2EuEODMhDisGy+Daq9jtPrNGgbQYD8=
+gorm.io/gorm v1.25.3/go.mod h1:L4uxeKpfBml98NYqVqwAdmV1a2nBtAec/cf3fpucW/k=
 gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c h1:m5lcgWnL3OElQNVyp3qcncItJ2c0sQlSGjYK2+nJTA4=
 lukechampine.com/blake3 v1.2.1 h1:YuqqRuaqsGV71BV/nm9xlI0MKUv4QC54jQnBChWbGnI=
 lukechampine.com/uint128 v1.3.0 h1:cDdUVfRwDUDovz610ABgFD17nXD4/uDgVHl2sC3+sbo=
