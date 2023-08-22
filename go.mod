@@ -6,9 +6,9 @@ toolchain go1.21.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230811033929-ada754fd1c2e
-	github.com/Potterli20/sqlite v0.0.0-20230820121157-7b16aecaf604
+	github.com/Potterli20/sqlite v0.0.0-20230822003420-dcf4f6494c2b
 	github.com/go-sql-driver/mysql v1.7.1
-	github.com/google/uuid v1.3.0
+	github.com/google/uuid v1.3.1
 	github.com/refraction-networking/utls v1.4.3
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.4
@@ -58,7 +58,7 @@ require (
 	golang.org/x/text v0.12.0 // indirect
 	golang.org/x/tools v0.12.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20230726155614-23370e0ffb3e // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20230815205213-6bfd019c3878 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230821184602-ccc8af3d0e93 // indirect
 	lukechampine.com/uint128 v1.3.0 // indirect
 	modernc.org/cc/v3 v3.41.0 // indirect
 	modernc.org/ccgo/v3 v3.16.15 // indirect
