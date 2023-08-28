@@ -9,7 +9,7 @@ require (
 	github.com/Potterli20/sqlite v0.0.0-20230826003307-90af8edb25cd
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.1
-	github.com/refraction-networking/utls v1.4.3
+	github.com/refraction-networking/utls v1.5.0
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.4
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
@@ -30,6 +30,7 @@ require (
 	cloud.google.com/go/oslogin v1.10.1 // indirect
 	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
+	github.com/cloudflare/circl v1.3.3 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/gaukas/godicttls v0.0.4 // indirect
