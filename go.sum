@@ -2,8 +2,6 @@ cloud.google.com/go/oslogin v1.10.1 h1:LdSuG3xBYu2Sgr3jTUULL1XCl5QBx6xwzGqzoDUw1
 cloud.google.com/go/oslogin v1.10.1/go.mod h1:x692z7yAue5nE7CsSnoG0aaMbNoRJRXO4sn73R+ZqAs=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230905181019-8ef1a28f37c2 h1:B/Qq2SHU4hYghH0og2n3bgewq3gvtKF9Q+da9wiQgJc=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20230905181019-8ef1a28f37c2/go.mod h1:jGNpNixQSgKAyLRSj4RuRTi2aFY+7YiTq/hXkGVLOPU=
-github.com/Potterli20/sqlite v0.0.0-20230906003521-7d3289909e0d h1:X008mMkGNXql2NALUeDFA7STPLFhIjQTitzYRNEQyno=
-github.com/Potterli20/sqlite v0.0.0-20230906003521-7d3289909e0d/go.mod h1:FD+zQsgSuwk1tMs3+YPfxDiQjyEv1CZCRIO8yK0kxmk=
 github.com/Potterli20/sqlite v0.0.0-20230906121414-ce269b3162c8 h1:nWXGBFNhSact2BqLvmfDDvu8k4Q05mHW0G3TA9I/ERs=
 github.com/Potterli20/sqlite v0.0.0-20230906121414-ce269b3162c8/go.mod h1:FD+zQsgSuwk1tMs3+YPfxDiQjyEv1CZCRIO8yK0kxmk=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -198,8 +196,6 @@ google.golang.org/genproto/googleapis/api v0.0.0-20230726155614-23370e0ffb3e h1:
 google.golang.org/genproto/googleapis/api v0.0.0-20230726155614-23370e0ffb3e/go.mod h1:rsr7RhLuwsDKL7RmgDDCUc6yaGr1iqceVb5Wv6f6YvQ=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d h1:uvYuEyMHKNt+lT4K3bN6fGswmK8qSvcreM3BwjDh+y4=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20230822172742-b8732ec3820d/go.mod h1:+Bk1OCOj40wS2hwAMA+aCW9ypzm63QTBBHp6lQ3p+9M=
-google.golang.org/grpc v1.57.0 h1:kfzNeI/klCGD2YPMUlaGNT3pxvYfga7smW3Vth8Zsiw=
-google.golang.org/grpc v1.57.0/go.mod h1:Sd+9RMTACXwmub0zcNY2c4arhtrbBYD1AUHI/dt16Mo=
 google.golang.org/grpc v1.58.0 h1:32JY8YpPMSR45K+c3o6b8VL73V+rR8k+DeMIr4vRH8o=
 google.golang.org/grpc v1.58.0/go.mod h1:tgX3ZQDlNJGU96V6yHh1T/JeoBQ2TXdr43YbYSsCJk0=
 google.golang.org/protobuf v1.26.0-rc.1/go.mod h1:jlhhOSvTdKEhbULTjvd4ARK9grFBp09yW+WbY/TyQbw=
