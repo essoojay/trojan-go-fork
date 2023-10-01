@@ -6,7 +6,7 @@ toolchain go1.21.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20230905181019-8ef1a28f37c2
-	github.com/Potterli20/sqlite v0.0.0-20230928003539-7844c94ce126
+	github.com/Potterli20/sqlite v0.0.0-20231001004107-cf77512065f2
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.1
 	github.com/refraction-networking/utls v1.5.3
@@ -49,7 +49,7 @@ require (
 	github.com/quic-go/quic-go v0.39.0 // indirect
 	github.com/remyoudompheng/bigfft v0.0.0-20230129092748-24d4a6f8daec // indirect
 	github.com/riobard/go-bloom v0.0.0-20200614022211-cdc8013cb5b3 // indirect
-	github.com/sagernet/sing v0.2.11 // indirect
+	github.com/sagernet/sing v0.2.12 // indirect
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/txthinking/runnergroup v0.0.0-20230325130830-408dc5853f86 // indirect
 	github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 // indirect
@@ -68,7 +68,7 @@ require (
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.7.2 // indirect
 	modernc.org/opt v0.1.3 // indirect
-	modernc.org/sqlite v1.25.0 // indirect
+	modernc.org/sqlite v1.26.0 // indirect
 	modernc.org/strutil v1.2.0 // indirect
 	modernc.org/token v1.1.0 // indirect
 )
