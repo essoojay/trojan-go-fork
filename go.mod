@@ -6,10 +6,10 @@ toolchain go1.21.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20231005210742-f8f8d6df057c
-	github.com/Potterli20/sqlite v0.0.0-20231007003520-60e21981d91e
+	github.com/Potterli20/sqlite v0.0.0-20231010121435-5e303a5137b1
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.1
-	github.com/refraction-networking/utls v1.5.3
+	github.com/refraction-networking/utls v1.5.4
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.4
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
@@ -23,7 +23,7 @@ require (
 	google.golang.org/grpc v1.58.2
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/gorm v1.25.4
+	gorm.io/gorm v1.25.5
 )
 
 require (
