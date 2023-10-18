@@ -6,7 +6,7 @@ toolchain go1.21.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20231005210742-f8f8d6df057c
-	github.com/Potterli20/sqlite v0.0.0-20231017121506-95e8202b3263
+	github.com/Potterli20/sqlite v0.0.0-20231018003601-85f59317fb75
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.3.1
 	github.com/refraction-networking/utls v1.5.4
@@ -20,7 +20,7 @@ require (
 	golang.org/x/term v0.13.0
 	golang.org/x/time v0.3.0
 	google.golang.org/genproto v0.0.0-20231012201019-e917dd12ba7a
-	google.golang.org/grpc v1.58.3
+	google.golang.org/grpc v1.59.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.5
@@ -30,7 +30,7 @@ require (
 	cloud.google.com/go/oslogin v1.11.0 // indirect
 	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/andybalholm/brotli v1.0.6 // indirect
-	github.com/cloudflare/circl v1.3.3 // indirect
+	github.com/cloudflare/circl v1.3.5 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/gaukas/godicttls v0.0.4 // indirect
