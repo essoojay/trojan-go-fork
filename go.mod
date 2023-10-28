@@ -6,7 +6,7 @@ toolchain go1.21.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20231005210742-f8f8d6df057c
-	github.com/Potterli20/sqlite v0.0.0-20231027003511-b6fe014759ef
+	github.com/Potterli20/sqlite v0.0.0-20231027121352-e3f1ac2e2a11
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.4.0
 	github.com/refraction-networking/utls v1.5.4
@@ -30,7 +30,7 @@ require (
 	cloud.google.com/go/oslogin v1.11.0 // indirect
 	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/andybalholm/brotli v1.0.6 // indirect
-	github.com/cloudflare/circl v1.3.5 // indirect
+	github.com/cloudflare/circl v1.3.6 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/gaukas/godicttls v0.0.4 // indirect
