@@ -1,12 +1,10 @@
 module github.com/Potterli20/trojan-go-fork
 
-go 1.21
-
-toolchain go1.21.0
+go 1.21.4
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20231109003910-1c8e3ba6a7b6
-	github.com/Potterli20/sqlite v0.0.0-20231112121255-14888cbb5d94
+	github.com/Potterli20/sqlite v0.0.0-20231115121436-a347b75a46ab
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.4.0
 	github.com/refraction-networking/utls v1.5.4
@@ -15,7 +13,7 @@ require (
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
-	github.com/xtls/xray-core v1.8.4
+	github.com/xtls/xray-core v1.8.5
 	golang.org/x/net v0.18.0
 	golang.org/x/term v0.14.0
 	golang.org/x/time v0.4.0
@@ -40,7 +38,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/jtolds/gls v4.20.0+incompatible // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
-	github.com/klauspost/compress v1.17.2 // indirect
+	github.com/klauspost/compress v1.17.3 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
@@ -64,7 +62,7 @@ require (
 	lukechampine.com/uint128 v1.3.0 // indirect
 	modernc.org/cc/v3 v3.41.0 // indirect
 	modernc.org/ccgo/v3 v3.16.15 // indirect
-	modernc.org/libc v1.34.0 // indirect
+	modernc.org/libc v1.34.4 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.7.2 // indirect
 	modernc.org/opt v0.1.3 // indirect
