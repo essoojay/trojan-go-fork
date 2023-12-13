@@ -4,9 +4,9 @@ go 1.21.4
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20231127210749-a61c64507573
-	github.com/Potterli20/sqlite v0.0.0-20231212121506-40af1753e8c4
+	github.com/Potterli20/sqlite v0.0.0-20231213003756-a9d5c2ff6f99
 	github.com/go-sql-driver/mysql v1.7.1
-	github.com/google/uuid v1.4.0
+	github.com/google/uuid v1.5.0
 	github.com/refraction-networking/utls v1.5.4
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.4
@@ -17,7 +17,7 @@ require (
 	golang.org/x/net v0.19.0
 	golang.org/x/term v0.15.0
 	golang.org/x/time v0.5.0
-	google.golang.org/genproto v0.0.0-20231120223509-83a465c0220f
+	google.golang.org/genproto v0.0.0-20231211222908-989df2bf70f3
 	google.golang.org/grpc v1.60.0
 	google.golang.org/protobuf v1.31.0
 	gopkg.in/yaml.v3 v3.0.1
@@ -56,9 +56,9 @@ require (
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/sys v0.15.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	golang.org/x/tools v0.16.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20231106174013-bbf56f31fb17 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20231211222908-989df2bf70f3 // indirect
+	golang.org/x/tools v0.16.1 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20231120223509-83a465c0220f // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20231212172506-995d672761c0 // indirect
 	lukechampine.com/uint128 v1.3.0 // indirect
 	modernc.org/cc/v3 v3.41.0 // indirect
 	modernc.org/ccgo/v3 v3.16.15 // indirect
