@@ -4,7 +4,7 @@ go 1.21.4
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240104181051-b464a4cb7c5e
-	github.com/Potterli20/sqlite v0.0.0-20240107121321-267d398959ea
+	github.com/Potterli20/sqlite v0.0.0-20240108003916-984958b88db4
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.5.0
 	github.com/refraction-networking/utls v1.6.0
@@ -13,7 +13,7 @@ require (
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
-	github.com/xtls/xray-core v1.8.6
+	github.com/xtls/xray-core v1.8.7
 	golang.org/x/net v0.19.0
 	golang.org/x/term v0.16.0
 	golang.org/x/time v0.5.0
@@ -61,7 +61,7 @@ require (
 	lukechampine.com/uint128 v1.3.0 // indirect
 	modernc.org/cc/v3 v3.41.0 // indirect
 	modernc.org/ccgo/v3 v3.16.15 // indirect
-	modernc.org/libc v1.38.1 // indirect
+	modernc.org/libc v1.39.0 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.7.2 // indirect
 	modernc.org/opt v0.1.3 // indirect
