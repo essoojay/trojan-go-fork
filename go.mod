@@ -4,9 +4,9 @@ go 1.21.4
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240108210708-08cd4a2d9fe9
-	github.com/Potterli20/sqlite v0.0.0-20240123121458-5e469729ed20
+	github.com/Potterli20/sqlite v0.0.0-20240124003941-018f6cfa206c
 	github.com/go-sql-driver/mysql v1.7.1
-	github.com/google/uuid v1.5.0
+	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.1
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.8.4
@@ -18,7 +18,7 @@ require (
 	golang.org/x/term v0.16.0
 	golang.org/x/time v0.5.0
 	google.golang.org/genproto v0.0.0-20240116215550-a9fa1716bcac
-	google.golang.org/grpc v1.60.1
+	google.golang.org/grpc v1.61.0
 	google.golang.org/protobuf v1.32.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.5
