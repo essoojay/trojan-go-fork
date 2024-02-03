@@ -4,7 +4,7 @@ go 1.21.4
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240108210708-08cd4a2d9fe9
-	github.com/Potterli20/sqlite v0.0.0-20240201003805-f23f7eae58e9
+	github.com/Potterli20/sqlite v0.0.0-20240203003606-15d3eca16906
 	github.com/go-sql-driver/mysql v1.7.1
 	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.2
@@ -40,6 +40,7 @@ require (
 	github.com/klauspost/compress v1.17.5 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/mattn/go-isatty v0.0.20 // indirect
+	github.com/ncruces/go-strftime v0.1.9 // indirect
 	github.com/patrickmn/go-cache v2.1.0+incompatible // indirect
 	github.com/pires/go-proxyproto v0.7.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
@@ -61,7 +62,7 @@ require (
 	lukechampine.com/uint128 v1.3.0 // indirect
 	modernc.org/cc/v3 v3.41.0 // indirect
 	modernc.org/ccgo/v3 v3.16.15 // indirect
-	modernc.org/libc v1.40.10 // indirect
+	modernc.org/libc v1.40.14 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.7.2 // indirect
 	modernc.org/opt v0.1.3 // indirect
