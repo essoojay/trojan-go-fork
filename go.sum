@@ -4,6 +4,8 @@ github.com/Potterli20/go-shadowsocks2 v0.0.0-20240208003849-29c0b26dbddb h1:br+3
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240208003849-29c0b26dbddb/go.mod h1:VRyml0vfwdDqxiqbYHqo9GhfXV/yfIvNO1Sm/NNrKao=
 github.com/Potterli20/sqlite v0.0.0-20240214003614-93ea83753643 h1:QWX9zhd0M89mAtBHr51f2yLN3+zPi3ekM+1eAqR/2f4=
 github.com/Potterli20/sqlite v0.0.0-20240214003614-93ea83753643/go.mod h1:1+q4l1sPk0eP+RkKt7hs/RoQRjVq+miCr/SJVifBdj8=
+github.com/Potterli20/sqlite v0.0.0-20240215003615-c8db7a1dac2d h1:hlSw8zR5MocMhecNwT4UkArvDyrTZAO9Cv3tLwkthfQ=
+github.com/Potterli20/sqlite v0.0.0-20240215003615-c8db7a1dac2d/go.mod h1:/wENTB/mFjSfA4eap8Ke+FPGIEIbn/L0Mcz+G51QTmw=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
 github.com/adrg/xdg v0.4.0/go.mod h1:N6ag73EX4wyxeaoeHctc1mas01KZgsj5tYiAIwqJE/E=
 github.com/andybalholm/brotli v1.1.0 h1:eLKJA0d02Lf0mVpIDgYnqXcUn0GqVmEFny3VuID1U3M=
@@ -228,8 +230,6 @@ modernc.org/mathutil v1.6.0 h1:fRe9+AmYlaej+64JsEEhoWuAYBkOtQiMEU7n/XgfYi4=
 modernc.org/mathutil v1.6.0/go.mod h1:Ui5Q9q1TR2gFm0AQRqQUaBWFLAhQpCwNcuhBOSedWPo=
 modernc.org/memory v1.7.2 h1:Klh90S215mmH8c9gO98QxQFsY+W451E8AnzjoE2ee1E=
 modernc.org/memory v1.7.2/go.mod h1:NO4NVCQy0N7ln+T9ngWqOQfi7ley4vpwvARR+Hjw95E=
-modernc.org/sqlite v1.29.0 h1:lQVw+ZsFM3aRG5m4myG70tbXpr3S/J1ej0KHIP4EvjM=
-modernc.org/sqlite v1.29.0/go.mod h1:hG41jCYxOAOoO6BRK66AdRlmOcDzXf7qnwlwjUIOqa0=
 modernc.org/sqlite v1.29.1 h1:19GY2qvWB4VPw0HppFlZCPAbmxFU41r+qjKZQdQ1ryA=
 modernc.org/sqlite v1.29.1/go.mod h1:hG41jCYxOAOoO6BRK66AdRlmOcDzXf7qnwlwjUIOqa0=
 modernc.org/strutil v1.2.0 h1:agBi9dp1I+eOnxXeiZawM8F4LawKv4NzGWSaLfyeNZA=
