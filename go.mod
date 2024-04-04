@@ -6,7 +6,7 @@ toolchain go1.22.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240305003851-ea4711c86213
-	github.com/Potterli20/sqlite v0.0.0-20240329003612-ea4302cb44d2
+	github.com/Potterli20/sqlite v0.0.0-20240404003748-a47af0a329f5
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.3
@@ -16,11 +16,11 @@ require (
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
 	github.com/xtls/xray-core v1.8.10
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 	golang.org/x/term v0.18.0
 	golang.org/x/time v0.5.0
-	google.golang.org/genproto v0.0.0-20240213162025-012b6fc9bca9
-	google.golang.org/grpc v1.62.1
+	google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de
+	google.golang.org/grpc v1.63.0
 	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.9
@@ -59,12 +59,12 @@ require (
 	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8 // indirect
 	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20240205150955-31a09d347014 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20240227224415-6ceb2ff114de // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240401170217-c3f982113cda // indirect
 	modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b // indirect
 	modernc.org/libc v1.49.0 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
-	modernc.org/memory v1.7.2 // indirect
+	modernc.org/memory v1.8.0 // indirect
 	modernc.org/sqlite v1.29.5 // indirect
 	modernc.org/strutil v1.2.0 // indirect
 	modernc.org/token v1.1.0 // indirect
