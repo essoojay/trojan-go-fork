@@ -15,7 +15,7 @@ require (
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
-	github.com/xtls/xray-core v1.8.10
+	github.com/xtls/xray-core v1.8.11
 	golang.org/x/net v0.24.0
 	golang.org/x/term v0.19.0
 	golang.org/x/time v0.5.0
@@ -23,7 +23,7 @@ require (
 	google.golang.org/grpc v1.63.2
 	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
-	gorm.io/gorm v1.25.9
+	gorm.io/gorm v1.25.10
 )
 
 require (
