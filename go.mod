@@ -5,8 +5,8 @@ go 1.22
 toolchain go1.22.0
 
 require (
-	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240404210746-c1c43ac9639a
-	github.com/Potterli20/sqlite v0.0.0-20240504003719-a65a426bb9e2
+	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240504181028-02e7d6d38891
+	github.com/Potterli20/sqlite v0.0.0-20240505004029-70c099ca541a
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.6
@@ -56,8 +56,8 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.22.0 // indirect
 	golang.org/x/exp v0.0.0-20240409090435-93d18d7e34b8 // indirect
-	golang.org/x/sys v0.19.0 // indirect
-	golang.org/x/text v0.14.0 // indirect
+	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/text v0.15.0 // indirect
 	golang.org/x/tools v0.20.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240227224415-6ceb2ff114de // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240429193739-8cf5692501f6 // indirect
