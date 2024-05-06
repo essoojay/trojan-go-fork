@@ -6,7 +6,7 @@ toolchain go1.22.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240504181028-02e7d6d38891
-	github.com/Potterli20/sqlite v0.0.0-20240505121342-96047eef9b5b
+	github.com/Potterli20/sqlite v0.0.0-20240506003853-bf71baacffb9
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.6
@@ -17,7 +17,7 @@ require (
 	github.com/xtaci/smux v1.5.24
 	github.com/xtls/xray-core v1.8.11
 	golang.org/x/net v0.24.0
-	golang.org/x/term v0.19.0
+	golang.org/x/term v0.20.0
 	golang.org/x/time v0.5.0
 	google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de
 	google.golang.org/grpc v1.63.2
@@ -66,7 +66,7 @@ require (
 	modernc.org/libc v1.50.5 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
 	modernc.org/memory v1.8.0 // indirect
-	modernc.org/sqlite v1.29.8 // indirect
+	modernc.org/sqlite v1.29.9 // indirect
 	modernc.org/strutil v1.2.0 // indirect
 	modernc.org/token v1.1.0 // indirect
 )
