@@ -15,7 +15,7 @@ require (
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
-	github.com/xtls/xray-core v1.8.12
+	github.com/xtls/xray-core v1.8.13
 	golang.org/x/net v0.25.0
 	golang.org/x/term v0.20.0
 	golang.org/x/time v0.5.0
@@ -55,10 +55,8 @@ require (
 	github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 // indirect
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.23.0 // indirect
-	golang.org/x/exp v0.0.0-20240506185415-9bf2ced13842 // indirect
 	golang.org/x/sys v0.20.0 // indirect
 	golang.org/x/text v0.15.0 // indirect
-	golang.org/x/tools v0.21.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240318140521-94a12d6c2237 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240521202816-d264139d666e // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
