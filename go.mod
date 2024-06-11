@@ -6,7 +6,7 @@ toolchain go1.22.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240604210840-4de0e3187e01
-	github.com/Potterli20/sqlite v0.0.0-20240610182645-f68656aa39c0
+	github.com/Potterli20/sqlite v0.0.0-20240611013302-bab7be36519a
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.6
@@ -21,7 +21,7 @@ require (
 	golang.org/x/time v0.5.0
 	google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de
 	google.golang.org/grpc v1.64.0
-	google.golang.org/protobuf v1.34.1
+	google.golang.org/protobuf v1.34.2
 	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.10
 )
