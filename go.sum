@@ -8,6 +8,8 @@ github.com/Potterli20/go-shadowsocks2 v0.0.0-20240604210840-4de0e3187e01 h1:a+Tg
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240604210840-4de0e3187e01/go.mod h1:hOUhYyrrRFNFQOTVF6DwKhV7NGR61nuZLBJkW1GA47I=
 github.com/Potterli20/sqlite v0.0.0-20240611013302-bab7be36519a h1:a1uH3pfe+saFP4D0D7ipSlX7upLQijiqVpmt0XdKMgg=
 github.com/Potterli20/sqlite v0.0.0-20240611013302-bab7be36519a/go.mod h1:YZkS3wvh/nlfsxgBTBepAIIA084hQLX8ZgBPmNFFWoI=
+github.com/Potterli20/sqlite v0.0.0-20240613182745-af35e9f23274 h1:KtoZg94+ZOh9SajbUjEQOYvA7FdICxjLAKPQFMHZe4M=
+github.com/Potterli20/sqlite v0.0.0-20240613182745-af35e9f23274/go.mod h1:g6D8ycHVTrEF3Mgzxm6hbOoaYj252i4OfiiJwKa/iT0=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
 github.com/adrg/xdg v0.4.0/go.mod h1:N6ag73EX4wyxeaoeHctc1mas01KZgsj5tYiAIwqJE/E=
 github.com/andybalholm/brotli v1.1.0 h1:eLKJA0d02Lf0mVpIDgYnqXcUn0GqVmEFny3VuID1U3M=
@@ -217,6 +219,7 @@ modernc.org/cc/v4 v4.21.3 h1:2mhBdWKtivdFlLR1ecKXTljPG1mfvbByX7QKztAIJl8=
 modernc.org/cc/v4 v4.21.3/go.mod h1:HM7VJTZbUCR3rV8EYBi9wxnJ0ZBRiGE5OeGXNA0IsLQ=
 modernc.org/ccgo/v4 v4.17.12 h1:0AyNqiL5gJdZr80RN6kQkiuH1jBdq0XMNt+HUXp7NPs=
 modernc.org/ccgo/v4 v4.17.12/go.mod h1:eOo7PuWQu3OfkBH/kYP1/+owPVO+uQAA/XxE3vtKYus=
+modernc.org/ccgo/v4 v4.18.0 h1:BBw4q5LEv5hVbtUDPWUg/3Ybz0PzKni67NEmXJpS6fk=
 modernc.org/fileutil v1.3.0 h1:gQ5SIzK3H9kdfai/5x41oQiKValumqNTDXMvKo62HvE=
 modernc.org/fileutil v1.3.0/go.mod h1:XatxS8fZi3pS8/hKG2GH/ArUogfxjpEKs3Ku3aK4JyQ=
 modernc.org/gc/v2 v2.4.1 h1:9cNzOqPyMJBvrUipmynX0ZohMhcxPtMccYgGOJdOiBw=
@@ -225,6 +228,8 @@ modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b h1:BnN1t+pb1cy61zbvSUV7SeI0
 modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b/go.mod h1:Qz0X07sNOR1jWYCrJMEnbW/X55x206Q7Vt4mz6/wHp4=
 modernc.org/libc v1.53.1 h1:QuMfWQrOWcgaIaHDCZgUDDECJu5D7wsjLnLDzS7sBAg=
 modernc.org/libc v1.53.1/go.mod h1:RLSlYYmAlXxFAIx9E2UEYh1zJVbocA3oNkq+a1s4jms=
+modernc.org/libc v1.53.2 h1:s/EzD+mZWtZ9+7b6dmqNmt+dQdgdMgmmT4wQooQJ2j0=
+modernc.org/libc v1.53.2/go.mod h1:WTMgD8qXTXPsh0KD3TMtn/Q5KhrYxwPVV18uXHRlddk=
 modernc.org/mathutil v1.6.0 h1:fRe9+AmYlaej+64JsEEhoWuAYBkOtQiMEU7n/XgfYi4=
 modernc.org/mathutil v1.6.0/go.mod h1:Ui5Q9q1TR2gFm0AQRqQUaBWFLAhQpCwNcuhBOSedWPo=
 modernc.org/memory v1.8.0 h1:IqGTL6eFMaDZZhEWwcREgeMXYwmW83LYW8cROZYkg+E=
