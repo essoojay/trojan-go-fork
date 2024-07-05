@@ -6,10 +6,10 @@ toolchain go1.22.0
 
 require (
 	github.com/Potterli20/go-shadowsocks2 v0.0.0-20240704181245-843f9654fc9c
-	github.com/Potterli20/sqlite v0.0.0-20240704182642-90f66238e71d
+	github.com/Potterli20/sqlite v0.0.0-20240705013331-ac9c59886af7
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
-	github.com/refraction-networking/utls v1.6.6
+	github.com/refraction-networking/utls v1.6.7
 	github.com/smartystreets/goconvey v1.7.2
 	github.com/stretchr/testify v1.9.0
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
@@ -54,7 +54,7 @@ require (
 	github.com/txthinking/runnergroup v0.0.0-20230325130830-408dc5853f86 // indirect
 	github.com/zhigui-projects/gm-go v0.0.0-20200510034956-8e4ef670d055 // indirect
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
-	golang.org/x/crypto v0.24.0 // indirect
+	golang.org/x/crypto v0.25.0 // indirect
 	golang.org/x/sys v0.22.0 // indirect
 	golang.org/x/text v0.16.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240528184218-531527333157 // indirect
