@@ -6,8 +6,6 @@ github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 h1:Wo41lDOevRJS
 github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0/go.mod h1:FVGavL/QEBQDcBpr3fAojoK17xX5k9bicBphrOpP7uM=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240705150952-6a714f6a9239 h1:AkxjLFo2oqImB+eyt808qrDPKS0eHn4G3cwxObx4YBw=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240705150952-6a714f6a9239/go.mod h1:KqPXe9G1MlqeyovW1Dzx9MF+mHr09n65wis9CbSBJro=
-github.com/Potterli20/sqlite v0.0.0-20240714063005-6a520c94e360 h1:5VIVwlklOnugId4VXedn5uhh2JluRfXa88ZIHW1ovvU=
-github.com/Potterli20/sqlite v0.0.0-20240714063005-6a520c94e360/go.mod h1:Wx945s7BwR6aKyvywPVzhVPyswJCrPeoWzCcgq0OJpg=
 github.com/Potterli20/sqlite v0.0.0-20240714125230-ed5580382dd5 h1:I4r2dZpPPP/wZXdPs09yfRDPM+i8Weehs6sMFOtW0gI=
 github.com/Potterli20/sqlite v0.0.0-20240714125230-ed5580382dd5/go.mod h1:Wx945s7BwR6aKyvywPVzhVPyswJCrPeoWzCcgq0OJpg=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -228,6 +226,8 @@ modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b h1:BnN1t+pb1cy61zbvSUV7SeI0
 modernc.org/gc/v3 v3.0.0-20240304020402-f0dba7c97c2b/go.mod h1:Qz0X07sNOR1jWYCrJMEnbW/X55x206Q7Vt4mz6/wHp4=
 modernc.org/libc v1.55.1 h1:2K/vMbMDGymj0CO4mcQybYW8SW3czB+u9rlghpMkTrI=
 modernc.org/libc v1.55.1/go.mod h1:qFXepLhz+JjFThQ4kzwzOjA/y/artDeg+pcYnY+Q83w=
+modernc.org/libc v1.55.2 h1:UN5eoBYrKp1b+gPYx8nZj5H7uxeybvyoQJfvcg+Bqjc=
+modernc.org/libc v1.55.2/go.mod h1:qFXepLhz+JjFThQ4kzwzOjA/y/artDeg+pcYnY+Q83w=
 modernc.org/mathutil v1.6.0 h1:fRe9+AmYlaej+64JsEEhoWuAYBkOtQiMEU7n/XgfYi4=
 modernc.org/mathutil v1.6.0/go.mod h1:Ui5Q9q1TR2gFm0AQRqQUaBWFLAhQpCwNcuhBOSedWPo=
 modernc.org/memory v1.8.0 h1:IqGTL6eFMaDZZhEWwcREgeMXYwmW83LYW8cROZYkg+E=
