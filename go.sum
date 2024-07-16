@@ -6,8 +6,6 @@ github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 h1:Wo41lDOevRJS
 github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0/go.mod h1:FVGavL/QEBQDcBpr3fAojoK17xX5k9bicBphrOpP7uM=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240705150952-6a714f6a9239 h1:AkxjLFo2oqImB+eyt808qrDPKS0eHn4G3cwxObx4YBw=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240705150952-6a714f6a9239/go.mod h1:KqPXe9G1MlqeyovW1Dzx9MF+mHr09n65wis9CbSBJro=
-github.com/Potterli20/sqlite v0.0.0-20240714125230-ed5580382dd5 h1:I4r2dZpPPP/wZXdPs09yfRDPM+i8Weehs6sMFOtW0gI=
-github.com/Potterli20/sqlite v0.0.0-20240714125230-ed5580382dd5/go.mod h1:Wx945s7BwR6aKyvywPVzhVPyswJCrPeoWzCcgq0OJpg=
 github.com/Potterli20/sqlite v0.0.0-20240715182734-7b2efc7e72e0 h1:oy3BPTNUB2J9jPeNLDrTqG1/BkgLeRdcD/+85StxfaU=
 github.com/Potterli20/sqlite v0.0.0-20240715182734-7b2efc7e72e0/go.mod h1:ZbZUEO7GIWNjNhVAjQiCV124qVyzNREnaQiOPm15NoE=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -126,8 +124,6 @@ github.com/xtaci/smux v1.5.24 h1:77emW9dtnOxxOQ5ltR+8BbsX1kzcOxQ5gB+aaV9hXOY=
 github.com/xtaci/smux v1.5.24/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
 github.com/xtls/reality v0.0.0-20240712055506-48f0b2d5ed6d h1:+B97uD9uHLgAAulhigmys4BVwZZypzK7gPN3WtpgRJg=
 github.com/xtls/reality v0.0.0-20240712055506-48f0b2d5ed6d/go.mod h1:dm4y/1QwzjGaK17ofi0Vs6NpKAHegZky8qk6J2JJZAE=
-github.com/xtls/xray-core v1.8.17 h1:T+A/hkBB33P0sEGXDiuKrQMZUOYxbZ84JlsYfyRiK8w=
-github.com/xtls/xray-core v1.8.17/go.mod h1:qEVGJD2suPN7EArG3r5EX6pYGV0QLiSRTlDMn0paJkc=
 github.com/xtls/xray-core v1.8.18 h1:o4SnyQ78vh5o9dp3NoIKwEeN7AUWlEGawQ5PkogTC1w=
 github.com/xtls/xray-core v1.8.18/go.mod h1:z7D4GwOXWwque0B5DJ+/+eGEVE4V5kFRhl0qbecMeY0=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
