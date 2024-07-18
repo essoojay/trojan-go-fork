@@ -15,7 +15,7 @@ require (
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
 	github.com/xtaci/smux v1.5.24
-	github.com/xtls/xray-core v1.8.18
+	github.com/xtls/xray-core v1.8.19
 	golang.org/x/net v0.27.0
 	golang.org/x/term v0.22.0
 	golang.org/x/time v0.5.0
