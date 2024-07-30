@@ -14,7 +14,7 @@ require (
 	github.com/stretchr/testify v1.9.0
 	github.com/txthinking/socks5 v0.0.0-20230325130024-4230056ae301
 	github.com/v2fly/v2ray-core/v5 v5.0.8
-	github.com/xtaci/smux v1.5.26
+	github.com/xtaci/smux v1.5.27
 	github.com/xtls/xray-core v1.8.23
 	golang.org/x/net v0.27.0
 	golang.org/x/term v0.22.0
