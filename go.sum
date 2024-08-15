@@ -8,6 +8,8 @@ github.com/Potterli20/go-shadowsocks2 v0.0.0-20240809004747-544e9b9fedd1 h1:HLwT
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20240809004747-544e9b9fedd1/go.mod h1:s8byTvqom80jUdfMbylm9zr4NLekGaTEDR4u1qYf0Vw=
 github.com/Potterli20/sqlite v0.0.0-20240813063013-eb25ff96890a h1:AJLldxFieu+HpTH4KWdH3Am5ptxyqZEDAJP6GgY57AI=
 github.com/Potterli20/sqlite v0.0.0-20240813063013-eb25ff96890a/go.mod h1:U3IiN11lHapjOubOXVzxRLVk9VIITP6aMPGQL9N/9+s=
+github.com/Potterli20/sqlite v0.0.0-20240815063016-b761e77fd721 h1:HDdaJXAes/hvigGPlUcbraHGf14+f2ehC/UKBicfuMU=
+github.com/Potterli20/sqlite v0.0.0-20240815063016-b761e77fd721/go.mod h1:fC8HgttIYOQAEeps2Qcy9YxtJJD1vKoVO4BQKxUZRLA=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
 github.com/adrg/xdg v0.4.0/go.mod h1:N6ag73EX4wyxeaoeHctc1mas01KZgsj5tYiAIwqJE/E=
 github.com/andybalholm/brotli v1.1.0 h1:eLKJA0d02Lf0mVpIDgYnqXcUn0GqVmEFny3VuID1U3M=
@@ -196,8 +198,6 @@ google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de h1:F6qOa9AZTYJXOUE
 google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de/go.mod h1:VUhTRKeHn9wwcdrk73nvdC9gF178Tzhmt/qyaFcPLSo=
 google.golang.org/genproto/googleapis/api v0.0.0-20240528184218-531527333157 h1:7whR9kGa5LUwFtpLm2ArCEejtnxlGeLbAyjFY8sGNFw=
 google.golang.org/genproto/googleapis/api v0.0.0-20240528184218-531527333157/go.mod h1:99sLkeliLXfdj2J75X3Ho+rrVCaJze0uwN7zDDkjPVU=
-google.golang.org/genproto/googleapis/rpc v0.0.0-20240812133136-8ffd90a71988 h1:V71AcdLZr2p8dC9dbOIMCpqi4EmRl8wUwnJzXXLmbmc=
-google.golang.org/genproto/googleapis/rpc v0.0.0-20240812133136-8ffd90a71988/go.mod h1:Ue6ibwXGpU+dqIcODieyLOcgj7z8+IcskoNIgZxtrFY=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20240814211410-ddb44dafa142 h1:e7S5W7MGGLaSu8j3YjdezkZ+m1/Nm0uRVRMEMGk26Xs=
 google.golang.org/genproto/googleapis/rpc v0.0.0-20240814211410-ddb44dafa142/go.mod h1:UqMtugtsSgubUsoxbuAoiCXvqvErP7Gf0so0mK9tHxU=
 google.golang.org/grpc v1.65.0 h1:bs/cUb4lp1G5iImFFd3u5ixQzweKizoZJAwBNLR42lc=
@@ -228,8 +228,6 @@ modernc.org/gc/v2 v2.5.0 h1:bJ9ChznK1L1mUtAQtxi0wi5AtAs5jQuw4PrPHO5pb6M=
 modernc.org/gc/v2 v2.5.0/go.mod h1:wzN5dK1AzVGoH6XOzc3YZ+ey/jPgYHLuVckd62P0GYU=
 modernc.org/gc/v3 v3.0.0-20240801135723-a856999a2e4a h1:CfbpOLEo2IwNzJdMvE8aiRbPMxoTpgAJeyePh0SmO8M=
 modernc.org/gc/v3 v3.0.0-20240801135723-a856999a2e4a/go.mod h1:Qz0X07sNOR1jWYCrJMEnbW/X55x206Q7Vt4mz6/wHp4=
-modernc.org/libc v1.59.3 h1:A4QAp1lRSn2/b4aU+wBtq+yeKgq/2BUevrj0p1ZNy2M=
-modernc.org/libc v1.59.3/go.mod h1:EY/egGEU7Ju66eU6SBqCNYaFUDuc4npICkMWnU5EE3A=
 modernc.org/libc v1.59.4 h1:kas1A6v59SN7iJIy4BQ/o5djZC1VO3pPhwc7HS4Atco=
 modernc.org/libc v1.59.4/go.mod h1:EY/egGEU7Ju66eU6SBqCNYaFUDuc4npICkMWnU5EE3A=
 modernc.org/mathutil v1.6.0 h1:fRe9+AmYlaej+64JsEEhoWuAYBkOtQiMEU7n/XgfYi4=
