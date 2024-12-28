@@ -6,8 +6,6 @@ github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 h1:Wo41lDOevRJS
 github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0/go.mod h1:FVGavL/QEBQDcBpr3fAojoK17xX5k9bicBphrOpP7uM=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20241211211055-0448065aa692 h1:+w1x6vWegWtRJNSK0QvHQG2f4P0E2HG6eYo0q9aRJA8=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20241211211055-0448065aa692/go.mod h1:WJB5yOt16wOcILkvIMxAjbNRqg/LVNvWqni5Nc1ZoCQ=
-github.com/Potterli20/sqlite v0.0.0-20241223150814-50205dfcca47 h1:zeVaMJtoQKFnVN37lBeBZ79ks8jube1BHexUbhhX1xI=
-github.com/Potterli20/sqlite v0.0.0-20241223150814-50205dfcca47/go.mod h1:68WW6prX4J4WX6QXu4NQ4LbsRjOQXY/2+4qmeb05XlQ=
 github.com/Potterli20/sqlite v0.0.0-20241227210716-6db3df60199b h1:4I/FhxWF+/IJqWXHxu7tpoUzOK5KLvmEP2FcXrh6bGY=
 github.com/Potterli20/sqlite v0.0.0-20241227210716-6db3df60199b/go.mod h1:6d+Zk65eVnQ1C5p4dK4C8o6R/FBDgDWamKsPWBbgE2s=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
@@ -128,8 +126,6 @@ github.com/vishvananda/netlink v1.3.0 h1:X7l42GfcV4S6E4vHTsw48qbrV+9PVojNfIhZcwQ
 github.com/vishvananda/netlink v1.3.0/go.mod h1:i6NetklAujEcC6fK0JPjT8qSwWyO0HLn4UKG+hGqeJs=
 github.com/vishvananda/netns v0.0.4 h1:Oeaw1EM2JMxD51g9uhtC0D7erkIjgmj8+JZc26m1YX8=
 github.com/vishvananda/netns v0.0.4/go.mod h1:SpkAiCQRtJ6TvvxPnOSyH3BMl6unz3xZlaprSwhNNJM=
-github.com/xtaci/smux v1.5.32 h1:IDdOaJDf8jk5NHKlTw05ge+0rdMjnXg3cwHkss5Pbcw=
-github.com/xtaci/smux v1.5.32/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
 github.com/xtaci/smux v1.5.33 h1:xosoZt0AUZdIXEB6z09kt1bge+l1L8wzMtJdPB6GAPI=
 github.com/xtaci/smux v1.5.33/go.mod h1:OMlQbT5vcgl2gb49mFkYo6SMf+zP3rcjcwQz7ZU7IGY=
 github.com/xtls/reality v0.0.0-20240712055506-48f0b2d5ed6d h1:+B97uD9uHLgAAulhigmys4BVwZZypzK7gPN3WtpgRJg=
@@ -248,8 +244,6 @@ modernc.org/gc/v3 v3.0.0-20241223112719-96e2e1e4408d h1:d0JExN5U5FjUVHCP6L9DIlLJ
 modernc.org/gc/v3 v3.0.0-20241223112719-96e2e1e4408d/go.mod h1:qBSLm/exCqouT2hrfyTKikWKG9IPq8EoX5fS00l3jqk=
 modernc.org/libc v1.61.5 h1:WzsPUvWl2CvsRmk2foyWWHUEUmQ2iW4oFyWOVR0O5ho=
 modernc.org/libc v1.61.5/go.mod h1:llBdEGIywhnRgAFuTF+CWaKV8/2bFgACcQZTXhkAuAM=
-modernc.org/mathutil v1.7.0 h1:KPlMfpLMs4EXAo8T8JJEkmCT9KP/B4vU1+GaBnDhHQY=
-modernc.org/mathutil v1.7.0/go.mod h1:4p5IwJITfppl0G4sUEDtCr4DthTaT47/N3aT6MhfgJg=
 modernc.org/mathutil v1.7.1 h1:GCZVGXdaN8gTqB1Mf/usp1Y/hSqgI2vAGGP4jZMCxOU=
 modernc.org/mathutil v1.7.1/go.mod h1:4p5IwJITfppl0G4sUEDtCr4DthTaT47/N3aT6MhfgJg=
 modernc.org/memory v1.8.0 h1:IqGTL6eFMaDZZhEWwcREgeMXYwmW83LYW8cROZYkg+E=
