@@ -61,7 +61,7 @@ require (
 	google.golang.org/genproto/googleapis/api v0.0.0-20241015192408-796eee8c2d53 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20250102185135-69823020774d // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
-	modernc.org/gc/v3 v3.0.0-20241223112719-96e2e1e4408d // indirect
+	modernc.org/gc/v3 v3.0.0-20250105121824-520be1a3aee6 // indirect
 	modernc.org/libc v1.61.6 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
 	modernc.org/memory v1.8.1 // indirect
