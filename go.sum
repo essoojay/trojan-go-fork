@@ -6,8 +6,6 @@ github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0 h1:Wo41lDOevRJS
 github.com/OmarTariq612/goech v0.0.0-20240405204721-8e2e1dafd3a0/go.mod h1:FVGavL/QEBQDcBpr3fAojoK17xX5k9bicBphrOpP7uM=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20250106211026-e8173f7531e0 h1:3wx4bU7BZ1LHZFhkGM1/727GvU5mfETn9C4Pe1LKEw4=
 github.com/Potterli20/go-shadowsocks2 v0.0.0-20250106211026-e8173f7531e0/go.mod h1:ms+M+O6wbTC96/tyyQwulxxnsHkyDhef6izTdhmlvL8=
-github.com/Potterli20/sqlite v0.0.0-20250116003923-6541eee6f08e h1:ubkzoih8/UKghXXs+ZkvfjEw6oGDYNJcmo4e+ndzP6Q=
-github.com/Potterli20/sqlite v0.0.0-20250116003923-6541eee6f08e/go.mod h1:F46AlI5vS7PZqhv5DynE4MoKlus1EHsxDIQOxM6SWJ8=
 github.com/Potterli20/sqlite v0.0.0-20250116031007-0637fe8cce52 h1:D1vnvEBGv5xLKdhd2PfqJbFASDyd9iczttClDwiCM/k=
 github.com/Potterli20/sqlite v0.0.0-20250116031007-0637fe8cce52/go.mod h1:O6UzL9ylY15Q94L8nilxJGEIZv4LRD/Rn1ouaMfsK6g=
 github.com/adrg/xdg v0.4.0 h1:RzRqFcjH4nE5C6oTAxhBtoE2IRyjBSa62SCbyPidvls=
