@@ -5,8 +5,8 @@ go 1.23
 toolchain go1.23.2
 
 require (
-	github.com/Potterli20/go-shadowsocks2 v0.0.0-20250106211026-e8173f7531e0
-	github.com/Potterli20/sqlite v0.0.0-20250201004242-db2486b93eb1
+	github.com/Potterli20/go-shadowsocks2 v0.0.0-20250204181507-bf4eedee3e74
+	github.com/Potterli20/sqlite v0.0.0-20250204210750-22e820c017e4
 	github.com/go-sql-driver/mysql v1.8.1
 	github.com/google/uuid v1.6.0
 	github.com/refraction-networking/utls v1.6.7
@@ -17,8 +17,8 @@ require (
 	github.com/xtaci/smux v1.5.33
 	github.com/xtls/xray-core v1.8.24
 	golang.org/x/net v0.34.0
-	golang.org/x/term v0.28.0
-	golang.org/x/time v0.9.0
+	golang.org/x/term v0.29.0
+	golang.org/x/time v0.10.0
 	google.golang.org/genproto v0.0.0-20240227224415-6ceb2ff114de
 	google.golang.org/grpc v1.70.0
 	google.golang.org/protobuf v1.36.4
@@ -31,7 +31,7 @@ require (
 	filippo.io/edwards25519 v1.1.0 // indirect
 	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/andybalholm/brotli v1.1.1 // indirect
-	github.com/cloudflare/circl v1.5.0 // indirect
+	github.com/cloudflare/circl v1.6.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
 	github.com/golang/protobuf v1.5.4 // indirect
@@ -55,10 +55,10 @@ require (
 	go4.org/netipx v0.0.0-20231129151722-fdeea329fbba // indirect
 	golang.org/x/crypto v0.32.0 // indirect
 	golang.org/x/exp v0.0.0-20250128182459-e0ece0dbea4c // indirect
-	golang.org/x/sys v0.29.0 // indirect
-	golang.org/x/text v0.21.0 // indirect
+	golang.org/x/sys v0.30.0 // indirect
+	golang.org/x/text v0.22.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20241202173237-19429a94021a // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20250127172529-29210b9bc287 // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20250204164813-702378808489 // indirect
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 	modernc.org/libc v1.61.11 // indirect
 	modernc.org/mathutil v1.7.1 // indirect
